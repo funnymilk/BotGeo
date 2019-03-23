@@ -1,0 +1,1 @@
+web: gunicorn geobot.wsgi —logfile-file -
